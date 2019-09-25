@@ -123,9 +123,55 @@ class BTNode
            return false;
        }
 
+       public void inOrder(){
+           inOrder(root);
+       }
+
+       public void inOrder(BTNode r){
+           if(r != null){
+               inOrder(r.getLeft());
+               System.out.println(r.getData() +" ");
+               inOrder(r.getRight());
+           }
+       }
+
+       public void preOrder(){
+           preOrder(root);
+       }
+
+       public void preOrder(BTNode r){
+           if(r!=null){
+               System.out.println(r.getData() +" ");
+               preOrder(r.getLeft());
+               preOrder(r.getRight());
+           }
+       }
+
+       public void postOrder(){
+           postOrder(root);
+       }
+
+       public void postOrder(BTNode r){
+           if(r!=null){
+               postOrder(r.getLeft());
+               postOrder(r.getRight());
+               System.out.println(r.getData() +" ");
+
+           }
+       }
+
+
+
     }
 
 public class BinaryTree {
 
+    public static void main(String args[]) {
 
+        BT bt = new BT();
+        System.out.println("Binary tree");
+
+
+
+    }
 }
