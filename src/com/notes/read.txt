@@ -2,3 +2,5 @@ read about garbage collection
 https://stackify.com/what-is-java-garbage-collection/
 Database
 https://www.interviewbit.com/sql-interview-questions/
+https://www.baeldung.com/java-singleton, https://www.geeksforgeeks.org/singleton-design-pattern-introduction/{read the applications, logger for school project and
+cache for LRU cache to create only one instance},https://dzone.com/articles/singleton-design-pattern-%E2%80%93
