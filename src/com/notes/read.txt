@@ -1,2 +1,4 @@
 read about garbage collection
 https://stackify.com/what-is-java-garbage-collection/
+Database
+https://www.interviewbit.com/sql-interview-questions/
