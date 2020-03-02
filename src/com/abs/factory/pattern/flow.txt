@@ -1,0 +1,5 @@
+1. create transaction interface
+2. Create order, order line, shipment, shipmentLine by implementing Transaction interface
+3. Create abstract class called AbstractTransaction which has a return type of Transaction.
+4. Create orderfactory and shipment factory by extending AbstractTransaction
+5. Create AbstractFactoryProducer which has a static class which has return type as AbstractTransaction
