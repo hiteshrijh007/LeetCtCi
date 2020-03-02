@@ -8,6 +8,7 @@ public enum SingletonEnum {
      */
     INSTANCE;
 
+
     public void doSomething(){
         System.out.println(INSTANCE.equals(INSTANCE));
     }
