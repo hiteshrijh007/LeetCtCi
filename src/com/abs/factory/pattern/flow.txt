@@ -3,3 +3,5 @@
 3. Create abstract class called AbstractTransaction which has a return type of Transaction.
 4. Create orderfactory and shipment factory by extending AbstractTransaction
 5. Create AbstractFactoryProducer which has a static class which has return type as AbstractTransaction
+
+ Abstract Factory: provides an interface for creating families of related or dependent objects without specifying their concrete classes
