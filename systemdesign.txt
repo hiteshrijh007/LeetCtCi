@@ -1,1 +1,4 @@
+#####
+Tiny URL
+9.LB:In this we basically use spring boot microservice service discovery pattern to solve the issue of round robin, service discovery pattern will distribute the load among pods/servers in order to maintain the SLAs of APIs.
 
