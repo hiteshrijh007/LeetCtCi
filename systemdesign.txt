@@ -2,3 +2,10 @@
 Tiny URL
 9.LB:In this we basically use spring boot microservice service discovery pattern to solve the issue of round robin, service discovery pattern will distribute the load among pods/servers in order to maintain the SLAs of APIs.
 
+### consistent hashing
+https://dzone.com/articles/introduction-apache-cassandras
+https://en.wikipedia.org/wiki/Consistent_hashing#:~:text=Consistent%20hashing%20%2D%20Wikipedia-,Consistent%20hashing,is%20the%20number%20of%20slots.
+https://medium.com/system-design-blog/consistent-hashing-b9134c8a9062#:~:text=In%20consistent%20hashing%20when%20a,and%20S2%20are%20not%20relocated.
+https://www.toptal.com/big-data/consistent-hashing
+
+
