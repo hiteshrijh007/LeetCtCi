@@ -1,3 +1,5 @@
 dp definition: optimal substructure, overlapping subproblems {consider fibonacci, suppose for fib(5) 
 we have to calculate fib(3) multiple times}, how many, combinatoric and optimization
 
+read this: https://www.quora.com/What-is-the-difference-between-bottom-up-and-top-down-dynamic-programming-method#:~:text=Top%20down%20solution%20(recursive%20way,recursive%20because%20of%20recursion%20overhead.
+
