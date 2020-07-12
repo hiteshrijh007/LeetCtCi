@@ -1,1 +1,3 @@
-dp definition: optimal substructure, overlapping subproblems {consider fibonacci, suppose for fib(5) we have to calculate fib(3) multiple times}, 
+dp definition: optimal substructure, overlapping subproblems {consider fibonacci, suppose for fib(5) 
+we have to calculate fib(3) multiple times}, how many, combinatoric and optimization
+
